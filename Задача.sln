@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание 20. Делегаты, события и лямбды", "Задание 20. Делегаты, события и лямбды\Задание 20. Делегаты, события и лямбды.csproj", "{AB69C9FE-B095-40DD-9B89-D20879F46012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB69C9FE-B095-40DD-9B89-D20879F46012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB69C9FE-B095-40DD-9B89-D20879F46012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB69C9FE-B095-40DD-9B89-D20879F46012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB69C9FE-B095-40DD-9B89-D20879F46012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8859BAD5-5320-402B-8170-8AB6D0DA7301}
+	EndGlobalSection
+EndGlobal
